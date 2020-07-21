@@ -1,0 +1,4 @@
+main: com.discordsrv.chamebot.ChameBot
+version: 1.0
+name: ChameBot
+depend: [DiscordSRV]
